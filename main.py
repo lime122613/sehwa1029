@@ -10,7 +10,7 @@ if st.button('환영인사'):
     st.write(name+'님 안녕하세요!')
     st.balloons()
     st.image('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGoPzMpnTdvXwnxeuv5cHUrxR2SRYbrji5921if6pBgaX3sM2jA_4-zCuRaHaevAuSHwu1zVegwKZA9ZjeIg8DP3yPc3wrOq0klJ2KkAU')
-
+    st.video('https://youtu.be/6BCw0PCaXk0?si=_O5tp6Fe74n25ei8')
 st.success('성공!')
 st.warning('경고!')
 st.error('오류!')
